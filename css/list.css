@@ -1,0 +1,20 @@
+.list{
+    list-style: none;
+}
+
+.fl.list{
+    margin-left: 50px;
+}
+.fr.list{
+    margin-right: 50px;
+}
+
+.list>li{
+    display: inline-block;
+}
+
+.list>li>a{
+    padding: 0 20px;
+    text-decoration: none;
+    color: black;
+}

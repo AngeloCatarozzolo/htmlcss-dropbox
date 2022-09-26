@@ -1,0 +1,19 @@
+.button-classic{
+    background-color: #006bff;
+    color: white;
+    padding: 8px 20px;
+    border: none;
+}
+
+.login>.button-classic{
+    vertical-align: middle;
+  }
+  
+  .freetrial>button{
+      margin-top:25px;
+  }
+  
+  .provablu{
+      padding: 10px 40px;
+      font-size: 16px;
+  }
