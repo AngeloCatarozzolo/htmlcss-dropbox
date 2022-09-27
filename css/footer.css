@@ -1,0 +1,41 @@
+footer{
+    background-color: black;
+    margin-top: 200px;
+}
+
+.container-nero{
+    height:550px;
+    color: white;
+    padding: 90px 90px;
+}
+
+.one{
+    width:20%;
+}
+
+.two,.three,.four,.five{
+    width: 20%;
+}
+
+.footerlist{
+    margin-top: 50px;
+    list-style: none;
+}
+
+.footerlist>li{
+    margin-bottom: 10px;
+}
+
+.lungo{
+    width:100px;
+    margin-top: 100px;
+}
+
+.lingua{
+    color:grey;
+
+}
+
+.lingua>.fa-chevron-up{
+    font-size: 10px;
+}

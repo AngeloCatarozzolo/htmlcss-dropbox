@@ -1,0 +1,100 @@
+.sezione4{
+    margin-top: 100px;
+    padding-left: 40px;
+}
+
+.testoclienti{
+    margin-bottom: 50px;
+}
+
+.clienti-container{
+    margin-top: 80px;
+}
+
+.clienti1,.clienti2{
+    width:30%;
+}
+
+.citazione{
+    width:40%;
+    height:400px;
+    background-color: #e6e5e5;
+}
+
+.cliente{
+    width:50%;
+    height:200px;
+    position: relative;
+}
+
+.cliente>img{
+    position: absolute;
+    width: 60%;
+    top:50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    filter: invert(1);
+}
+
+.l1{
+    background-color: #9ed68e;
+    border:10px solid lightgreen;
+}
+
+.l2{
+    background-color: rgb(114, 13, 34,1);
+}
+
+.l3{
+    background-color: rgb(37, 166, 218);
+}
+
+.l4{
+    background-color: red;
+}
+
+.contenitore-citazione{
+    padding:50px 30px;
+}
+
+.contenitore-citazione>img{
+width:20%;
+}
+
+.contenitore-citazione>p{
+    margin-bottom: 50px;
+    font-size: 15px;
+}
+
+.l5{
+    background-color: #ce0b0b;
+}
+
+.l6{
+    background-color: rgb(140, 211, 240);
+}
+
+.l7{
+    background-color: blue;
+}
+
+.l8{
+    background-color:#dede25;
+}
+
+.container-azzurro{
+    height: 300px;
+    background-color: #0091ef6b; 
+    padding: 100px 210px;
+}
+
+.testoazienda>h1{
+    color: rgb(114, 13, 34,1);
+}
+
+.provagratuita{
+    border:none;
+    background-color: white;
+    padding: 12px 60px;
+    font-size: 16px;
+}
