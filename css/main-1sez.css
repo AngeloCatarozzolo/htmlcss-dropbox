@@ -1,0 +1,152 @@
+.container{
+    width: 1000px;
+    margin:0 auto;
+  
+}
+
+.container-scelta{
+    margin-top: 200px;
+    padding-left: 50px;
+}
+
+.contenitore-colonne{
+    margin-top:40px;
+    padding-left: 10px;
+   
+}
+
+.colonna{
+    margin-left:40px ;
+    width: calc(1000px / 3 - 44px);
+    border:1px solid lightgray;
+    height: 980px;
+    
+}
+
+.box-image{
+    height:40px;
+    line-height: 40px;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+}
+
+.box-intero{
+    padding:20px 20px ;
+}
+
+.spazio-archiviazione{
+    font-size: 15px;
+}
+
+.utente::before{
+    content: "\f007";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 400;
+    padding-right: 5px;
+}
+
+.utenteb::before{
+    content:"\f234";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    padding-right: 5px;
+}
+
+.archivio::before{
+    content: "\f07b";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 400;
+    padding-right: 5px;
+}
+
+.condivisione::before{
+    content: "\f304";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    padding-right: 5px;
+
+}
+
+.smile::before{
+    content: "\f118";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 400;
+    padding-right: 5px;
+}
+
+.bordo{
+    height:30px;
+    width:60px;
+    border-bottom:1px solid lightgray;
+    margin-bottom: 40px;
+}
+
+.check>li::before{
+    content: "\f00c";
+    color: #0063ff;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    padding-right: 5px;
+}
+
+.check>li{
+    margin-top: 20px;
+}
+
+.icone{
+    margin-top:20px;
+    margin-bottom: 70px;
+    position: relative;
+    height: 140px;
+    width: 100%;
+}
+
+.compra{
+    margin-top:20px;
+}
+.bcolonne{
+    padding:10px 49px
+}
+
+.sezione1{
+    padding-left: 50px;
+}
+
+.team{
+    height: 50px;
+    border:1px solid lightgray ;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 100px;
+}
+
+.box-ufficiovendite{
+    border:1px solid lightgray;
+    padding:24px 20px;
+}
+
+.team>i{
+    text-align: center;
+}
+
+.Enterprise{
+    width:72%;
+}
+
+.Enterprise>h2{
+    margin-bottom: 20px;
+}
+.Enterprise>h4{
+    margin-bottom: 40px;
+}
+
+.Enterprise>p{
+    margin-bottom: 20px;
+    font-size: 13px;
+}
+
+.grande{
+    padding: 10px 15px;
+    margin-top: 20px;
+    width:28%;
+}

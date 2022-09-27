@@ -7,13 +7,30 @@
 
 .login>.button-classic{
     vertical-align: middle;
-  }
+}
   
-  .freetrial>button{
+.freetrial>button{
       margin-top:25px;
-  }
+}
   
-  .provablu{
+.provablu{
       padding: 10px 40px;
       font-size: 16px;
-  }
+}
+
+  .radio-button{
+    margin-top: 50px;
+}
+
+.radio-button label{
+    display: inline-block;
+    padding-right: 20px;
+}
+
+.uno>h2{
+    margin-bottom:20px;
+}
+.uno>h4{
+    margin-bottom:10px;
+    
+}

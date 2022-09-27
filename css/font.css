@@ -1,3 +1,22 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+.font-speciale{
+    position: absolute;
+ }
+ 
+ .font-speciale>p{
+     margin-top:20px;
+     font-size: 15px;
+ }
+
+ .testi-icone{
+    position:absolute;
+    left:24px;
+}
+
+.testi-icone>p{
+    margin-top:20px;
+    font-size: 15px;
+}
