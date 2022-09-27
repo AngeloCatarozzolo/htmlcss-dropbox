@@ -1,0 +1,27 @@
+.sezione3{
+    margin-top: 200px;
+}
+
+.sezione3>h1{
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+
+.card{
+    width:calc(1000px / 3  - 40px);
+    margin-left: 40px;
+    height: 500px;
+}
+
+.card>img{
+    width:100%;
+}
+
+.card>p{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+#dropboxpaper{
+    text-decoration:underline ;
+}

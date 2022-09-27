@@ -1,0 +1,18 @@
+.sezione2{
+    margin-top:150px;
+    padding-left: 50px;
+}
+
+.partner{
+    width:50%;
+
+}
+.box-partner{
+    width: 50%;
+    padding:30px 40px;
+}
+
+.box-partner>p{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
